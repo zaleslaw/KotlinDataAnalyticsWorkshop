@@ -34,5 +34,5 @@ fun main(args: Array<String>) {
         }
         // Set the title of the plot
         layout.title = "Kandy Getting Started Example"
-    }.save("Started Example.png") // Save plot as PNG image
+    }.save("StartedExample.png") // Save plot as PNG image
 }
