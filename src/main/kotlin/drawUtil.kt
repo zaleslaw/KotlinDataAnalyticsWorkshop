@@ -1,5 +1,4 @@
 import org.jetbrains.kotlinx.dl.api.inference.objectdetection.DetectedObject
-import org.jetbrains.kotlinx.dl.api.inference.posedetection.DetectedPose
 import org.jetbrains.kotlinx.dl.api.inference.posedetection.MultiPoseDetectionResult
 import java.awt.*
 import java.awt.geom.Ellipse2D
