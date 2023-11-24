@@ -1,4 +1,4 @@
-const val URL = "jdbc:mariadb://localhost:3307/imdb"
+const val URL = "jdbc:mariadb://localhost:3306/imdb"
 const val USER_NAME = "root"
 const val PASSWORD = "pass"
 const val TABLE_NAME = "actors"
